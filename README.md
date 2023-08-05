@@ -10,7 +10,7 @@ keras 2.10.0
 ## Proof of Concept 
 
 ![firstimage](1669755242647.jpg)
-![firstimage](1669755235149.jpg)
+![wirstimage](1669755235149.jpg)
 
 
 
